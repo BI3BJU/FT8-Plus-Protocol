@@ -22,7 +22,7 @@ provided that you:
 Suggested attribution format:
 
 > "FT8 plus Protocol" by BI3BJU, licensed under CC BY-SA 4.0.
-> Original source: https://github.com/BI3BJU/ft8-plus-protocol
+> Original source: https://github.com/BI3BJU/FT8-Plus-Protocol
 
 Note: If this repository contains software code, the code is not covered by this
 license. Please refer to the separate license in the code directory.
